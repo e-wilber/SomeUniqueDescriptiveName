@@ -9,5 +9,7 @@ public class TheBrain {
 		// add more
 
 		System.out.println("Is this right");
+
+		System.out.println("I cloned this code from GitHub! - E Wilber");
 	}
 }
