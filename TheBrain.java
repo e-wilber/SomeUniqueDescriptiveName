@@ -10,6 +10,6 @@ public class TheBrain {
 
 		System.out.println("Is this right");
 
-		System.out.println("I cloned this code from GitHub! - E Wilber");
+		System.out.println("I forked this code from GitHub! - E Wilber");
 	}
 }
